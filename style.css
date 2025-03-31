@@ -1,0 +1,211 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html{
+    scroll-behavior: smooth;
+  }
+  @font-face {
+    font-family: 'fonte';
+    src: url('fonts/Caveat-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'fonte2';
+    src: url('fonts/Lora-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  body{
+    background-color: #f7dfdb;
+  }
+
+  .musica{
+    margin-top: 2%;
+    margin-left: 35%;
+  }
+
+  .musica audio{
+    width: 50%;
+  }
+
+  .texto{
+    margin-top: 3%;
+  }
+  
+  .texto h1{
+    font-family: "fonte";
+    font-size: 450%;
+    margin-left: 5%;
+    width: 90%;
+    text-align: center;
+  }
+
+  .joao h2#primeiro, .joao h2#segundo{
+      font-family: "fonte";
+      font-size: 300%;
+  }
+  
+  .joao h2#primeiro, h2#segundo{
+  width: 90%;
+  margin-left: 5%;
+  text-align: center;
+  margin-bottom: 2%;
+}
+
+.joao p#primeiro2, p#segundo2{
+  font-family: "fonte2";
+  font-size: 150%;
+  text-align: justify;
+}
+
+.joao p#primeiro2, p#segundo2{
+  width: 90%;
+  margin-left: 5%;
+}
+
+
+.joao p#primeiro2{
+  margin-bottom: 5%;
+}
+
+.joao .fotos, .joao .fotos #fotoCarol1, #fotoCarol2, #fotoCarol3{
+  margin-top: 5%;
+  margin-bottom: 3%;
+}
+.joao .fotos #foto1, #foto2, #foto3{
+  width: 30%;
+  border-radius: 10%;
+  margin-left: 2.5%;
+}
+
+.joao .fotos #fotoCarol2{
+  width: 20%;
+  border-radius: 10%;
+  margin-left: 12.5%;
+}
+
+.joao .fotos #fotoCarol3{
+  width: 20%;
+  border-radius: 10%;
+  margin-left: 12.5%;
+}
+
+.joao .fotos #fotoCarol1{
+  width: 20%;
+  border-radius: 10%;
+  margin-left: 7.5%;
+}
+
+.joao{
+  margin-bottom: 5%;
+}
+
+.joao .fotosJoao #foto1J, #foto2J, #foto3J{
+  width: 25%;
+  border-radius: 10%;
+}
+
+.joao .fotosJoao #foto1J{
+  margin-right: 7%;
+}
+
+.joao .fotosJoao #foto3J{
+  margin-left: 7%;
+}
+
+.joao .fotosJoao{
+  margin-left: 11%;
+  margin-bottom: 5%;
+}
+
+.textoM{
+  width: 90%;
+  margin-left: 5%;
+}
+
+.textoM p{
+  width: 90%;
+  margin-left: 6%;
+  text-align: center;
+  font-family: "fonte2";
+  font-size: 120%;
+}
+
+.joao #video1{
+  border-radius: 5%;
+  width: 20%;
+  margin-left: 20%;
+}
+
+.joao #video2{
+  border-radius: 5%;
+  width: 20%;
+  margin-left: 17.5%
+}
+body a img{
+  width: 20%;
+  border-radius: 25%;
+}
+
+body a{
+  position: fixed;
+  bottom: 2%;
+  margin-left: 2%;
+}
+
+.joao .lorena h2#lorenaCab, .sampaio h2#sampaioCab, .duda h2#dudaCab{
+  width: 90%;
+  margin-left: 5%;
+  text-align: center;
+  font-family: "fonte";
+  font-size: 300%;
+  margin-bottom: 2%
+}
+
+.sampaio h2#sampaioCab{
+  margin-bottom: 2%;
+}
+
+.joao .lorena p#lorena2, .sampaio p#sampaio2, .duda p#duda2{
+  width: 90%;
+  margin-left: 5%;
+  font-family: "fonte2";
+  font-size: 150%;
+}
+
+.joao .lorena .fotosL #foto1L, .duda .dudaFotos img#fotoDuda1{
+  width: 20%;
+  border-radius: 10%;
+  margin-bottom: 5%;
+  margin-right: 7%;
+  margin-left: 12%;
+}
+
+.joao .lorena .fotosL img#foto2L, img#foto3L, .duda .dudaFotos img#fotoDuda2, .duda .dudaFotos img#fotoDuda3{
+  width: 22.5%;
+  border-radius: 10%;
+  margin-bottom: 5%;
+  margin-right: 7%;
+}
+.duda .dudaFotos img#fotoDuda2{
+  margin-top: 5%;
+}
+.joao .lorena p#lorena2{
+  margin-bottom: 5%;
+}
+.joao .lorena h2#lorenaCab{
+  margin-bottom: 3%;
+}
+
+.sampaio img#sampaio{
+  width: 20%;
+  border-radius: 10%;
+  margin-bottom: 5%;
+  margin-left: 40%;
+  margin-top: 5%;
+}
