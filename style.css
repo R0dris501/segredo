@@ -176,6 +176,7 @@ body a{
   margin-left: 5%;
   font-family: "fonte2";
   font-size: 150%;
+  text-align: justify;
 }
 
 .joao .lorena .fotosL #foto1L, .duda .dudaFotos img#fotoDuda1{
@@ -208,4 +209,14 @@ body a{
   margin-bottom: 5%;
   margin-left: 40%;
   margin-top: 5%;
+}
+
+@media screen  and (max-width: 348px){
+  .joao .lorena .fotosL #foto1L, .duda .dudaFotos img#fotoDuda1 {
+    width: 20%;
+    border-radius: 10%;
+    margin-bottom: 5%;
+    margin-right: 7%;
+    margin-left: 7.5%;
+}
 }
