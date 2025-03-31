@@ -220,3 +220,12 @@ body a{
     margin-left: 7.5%;
 }
 }
+@media screen  and (max-width: 404px){
+  .joao .lorena .fotosL #foto1L, .duda .dudaFotos img#fotoDuda1 {
+    width: 20%;
+    border-radius: 10%;
+    margin-bottom: 5%;
+    margin-right: 7%;
+    margin-left: 9.5%;
+}
+}
