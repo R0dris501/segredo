@@ -158,7 +158,7 @@ body a{
   margin-left: 2%;
 }
 
-.joao .lorena h2#lorenaCab, .sampaio h2#sampaioCab, .duda h2#dudaCab{
+.joao .lorena h2#lorenaCab, .sampaio h2#sampaioCab, .duda h2#dudaCab, .gustavo h2#gustavoCab{
   width: 90%;
   margin-left: 5%;
   text-align: center;
@@ -170,8 +170,8 @@ body a{
 .sampaio h2#sampaioCab{
   margin-bottom: 2%;
 }
+.joao .lorena p#lorena2, .sampaio p#sampaio2, .duda p#duda2, .gustavo p#gustavo2{
 
-.joao .lorena p#lorena2, .sampaio p#sampaio2, .duda p#duda2{
   width: 90%;
   margin-left: 5%;
   font-family: "fonte2";
@@ -228,4 +228,27 @@ body a{
     margin-right: 7%;
     margin-left: 9.5%;
 }
+}
+
+.gustavo  img#gustavoIMG1, img#gustavoIMG2, img#gustavoIMG3, img#gustavoIMG4{
+  width: 15%;
+  border-radius: 10%;
+}
+
+.gustavo  img#gustavoIMG2, img#gustavoIMG4{
+  margin-bottom: 6%;
+}
+
+.gustavo  img#gustavoIMG2, img#gustavoIMG3, img#gustavoIMG4{
+  margin-left: 5%;
+}
+
+.gustavo  img#gustavoIMG1{
+  margin-bottom: 6.5%;
+  margin-left: 10%;
+}
+
+.gustavo img{
+  margin-bottom: 2%;
+  margin-top: 2%;
 }
