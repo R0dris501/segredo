@@ -158,7 +158,7 @@ body a{
   margin-left: 2%;
 }
 
-.joao .lorena h2#lorenaCab, .sampaio h2#sampaioCab, .duda h2#dudaCab, .gustavo h2#gustavoCab{
+.joao .lorena h2#lorenaCab, .sampaio h2#sampaioCab, .duda h2#dudaCab, .gustavo h2#gustavoCab, .perola h2#perolaCab{
   width: 90%;
   margin-left: 5%;
   text-align: center;
@@ -170,7 +170,7 @@ body a{
 .sampaio h2#sampaioCab{
   margin-bottom: 2%;
 }
-.joao .lorena p#lorena2, .sampaio p#sampaio2, .duda p#duda2, .gustavo p#gustavo2{
+.joao .lorena p#lorena2, .sampaio p#sampaio2, .duda p#duda2, .gustavo p#gustavo2, .perola p#perola2{
 
   width: 90%;
   margin-left: 5%;
@@ -251,4 +251,32 @@ body a{
 .gustavo img{
   margin-bottom: 2%;
   margin-top: 2%;
+}
+
+.perola img{
+  width: 20%;
+}
+
+.perola img#peF1, img#peF2, img#peF3{
+  border-radius: 10%;
+}
+
+.perola img#peF1{
+  margin-right: 5%;
+}
+
+.perola img#peF2{
+  margin-left: 5%;
+}
+
+.perola img#peF1{
+  margin-left: 15%;
+}
+
+.perola p#perola2{
+  margin-bottom: 5%;
+}
+
+.sampaio h2#sampaioCab{
+  margin-top: 5%;
 }
